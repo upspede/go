@@ -7,7 +7,7 @@ license: ""
 
 # app与v2b面板的通信地址，一般是面板前端域名
 # 月付版注意：这里的域名一定要和授权域名一致，若更换域名请联系开发者重新获取授权密钥
-apiUrl: "http://67.198.205.98:61888/"
+apiUrl: "https://n1.oldmanvpn.org/"
 
 # Crisp在线客服，不填写则入口隐藏
 crispId: ""
