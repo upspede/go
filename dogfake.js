@@ -1,7 +1,7 @@
 const crypto = require('crypto');
 
 // 机场的地址url
-var wangzhangurl = "hhttps://v5f9yq04.fastspeedgo.com";
+var wangzhangurl = "https://v5f9yq04.fastspeedgo.com";
 // 登录页面背景图
 var loginBackgroundImageUrl = 'https://pic.imgdb.cn/item/65a09e93871b83018ad63bb6.png';
 // 登录后的背景图
